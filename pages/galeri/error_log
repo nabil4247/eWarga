@@ -1,0 +1,8 @@
+[14-Sep-2022 04:15:24 UTC] PHP Warning:  move_uploaded_file(../../assets/upload/6c198fdb3a559186a3a5f748865974f7.png): failed to open stream: No such file or directory in /home/nabilmyi/dev.nabil4247.my.id/ewarga/pages/galeri/store.php on line 29
+[14-Sep-2022 04:15:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuVUlZA' to '../../assets/upload/6c198fdb3a559186a3a5f748865974f7.png' in /home/nabilmyi/dev.nabil4247.my.id/ewarga/pages/galeri/store.php on line 29
+[14-Sep-2022 04:20:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/nabilmyi/dev.nabil4247.my.id/ewarga/config/koneksi.php on line 10
+[14-Sep-2022 04:24:45 UTC] PHP Warning:  move_uploaded_file(../../assets/upload/db37dd49ab6a4b50e5219ae533cf7679.png): failed to open stream: No such file or directory in /home/nabilmyi/dev.nabil4247.my.id/ewarga/pages/galeri/store.php on line 29
+[14-Sep-2022 04:24:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuDXPyn' to '../../assets/upload/db37dd49ab6a4b50e5219ae533cf7679.png' in /home/nabilmyi/dev.nabil4247.my.id/ewarga/pages/galeri/store.php on line 29
+[14-Sep-2022 04:31:21 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/nabilmyi/dev.nabil4247.my.id/ewarga/pages/galeri/delete.php on line 21
+[14-Sep-2022 04:31:23 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/nabilmyi/dev.nabil4247.my.id/ewarga/pages/galeri/delete.php on line 21
+[15-Sep-2022 08:21:09 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/nabilmyi/dev.nabil4247.my.id/ewarga/pages/galeri/delete.php on line 21

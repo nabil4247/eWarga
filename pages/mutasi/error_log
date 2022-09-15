@@ -1,0 +1,2 @@
+[14-Sep-2022 03:50:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/nabilmyi/dev.nabil4247.my.id/ewarga/assets/lib/fpdf/fpdf.php on line 12
+[14-Sep-2022 04:38:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/nabilmyi/dev.nabil4247.my.id/ewarga/assets/lib/fpdf/fpdf.php on line 12
