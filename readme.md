@@ -14,7 +14,11 @@
 
 # Changelog (Pengembangan pribadi)
 v1.1u20220916
+<<<<<<< HEAD
 - Re-design User Interface (UI) Dashboard
+=======
+- Re-design UI Dashboard
+>>>>>>> 3ac0d7bceb9202fb9c2cad71f3995b110bfab8a4
 - Optimalisasi fitur Changelog
 
 v1.1u20220915
